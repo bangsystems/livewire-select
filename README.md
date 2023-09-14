@@ -1,17 +1,24 @@
+# BANG Systems Limited Fork
+
+This is a fork for internal use for BANG Systems Limited. As keeping with the spirit of opensource we are publishing all changes we make to this package.
+
+Below is the original readme unmodified from initial forking on 14th September 2023 with minor tweaks.
+
+
 # Livewire Select
 
 Livewire component for dependant and/or searchable select inputs
 
 ### Preview
 
-![preview](https://github.com/asantibanez/livewire-select/raw/master/preview.gif) 
+![preview](https://github.com/bangsystems/livewire-select/raw/master/preview.gif) 
 
 ### Installation
 
 You can install the package via composer:
 
 ```bash
-composer require asantibanez/livewire-select
+composer require bangsystems/livewire-select
 ```
 
 ### Requirements
@@ -226,6 +233,7 @@ If you discover any security related issues, please email santibanez.andres@gmai
 
 ## Credits
 
+- [Luke Hebblethwaite](https://github.com/lukehebb)
 - [Andrés Santibáñez](https://github.com/asantibanez)
 - [All Contributors](../../contributors)
 

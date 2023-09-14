@@ -1,14 +1,20 @@
 {
-    "name": "asantibanez/livewire-select",
-    "description": "Livewire dropdown select component",
+    "name": "bangsystems/livewire-select",
+    "description": "Livewire dropdown select component (fork of asantibanez/livewire-select for BANG Systems use)",
     "keywords": [
         "asantibanez",
+        "bangsystems",
         "livewire-select"
     ],
     "homepage": "https://github.com/asantibanez/livewire-select",
     "license": "MIT",
     "type": "library",
     "authors": [
+        {
+            "name": "Luke Hebblethwaite",
+            "email": "luke.hebblethwaite@nexuscare.co.uk",
+            "role": "Developer"
+        },
         {
             "name": "Andrés Santibáñez",
             "email": "santibanez.andres@gmail.com",
